@@ -26,6 +26,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+This is my first challenge using Frontend Mentor, and these are my first practices with HTML and CSS.
+My goal was to create a solution that looks exactly like the given design. I also aimed for clean and well-structured code, making it easy to understand and use for any colleague who might need it.
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -35,11 +38,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Using Flexbox correctly and intuitively was my top priority. I'm sure I’ve learned a lot from this challenge!
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I would like to keep focusing on HTML and CSS. After that, my goal is to use all the knowledge I’ve gained to learn JavaScript, React, and Vue.js.
 
 ## Author
 
